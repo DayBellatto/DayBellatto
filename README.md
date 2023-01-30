@@ -1,4 +1,4 @@
-#### Oiee! Eu sou a Day Bellatto. Seja bem vindo  😊
+<h3> <i> Oiee! Eu sou a Day Bellatto. Seja bem vindo  😊</i></h3>
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daiana-bellatto-64356484/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/day.bellatto/)
@@ -6,7 +6,7 @@
 
 ![Daybellatto s GitHub stats](https://github-readme-stats.vercel.app/api?username=DayBellatto&show_icons=true&theme=radical)
 
-### Tecnologias que utilizo : ) 
+<h3> <i> Tecnologias que utilizo : ) </i> </h3>
 
 <div style ="display: inline_block"><br/>
 
@@ -18,8 +18,8 @@
 
 </div>
 
-##### Apaixonada pelo mundo Tech
-#### Quer me conhecer melhor? Faça contato 
+<h5> <i> <b> Apaixonada pelo mundo Tech </b></i></h5>
+<h4> <i> <b>Quer me conhecer melhor? Faça contato </b></i></h5>
 
 - Email: motasantos.daiana@yahoo.com.br<br/>
 - whats: (11)96540-2815 <br/>
