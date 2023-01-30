@@ -6,6 +6,8 @@
 
 ![Daybellatto s GitHub stats](https://github-readme-stats.vercel.app/api?username=DayBellatto&show_icons=true&theme=radical)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayBellatto&layout=compact&langs_count=16&theme=great-gatsby"/>
+
 <h3> <i> Tecnologias que utilizo : ) </i> </h3>
 
 <div style ="display: inline_block"><br/>
