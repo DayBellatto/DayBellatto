@@ -4,9 +4,9 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daiana-bellatto-64356484/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/day.bellatto/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
-![Daybellatto s GitHub stats](https://github-readme-stats.vercel.app/api?username=DayBellatto&show_icons=true&theme=radical)
+![Daybellatto s GitHub stats](https://github-readme-stats.vercel.app/api?username=DayBellatto&show_icons=true&theme=gruvbox)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayBellatto&layout=compact&langs_count=16&theme=great-gatsby"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayBellatto&langs_count=16&theme=great-gatsby"/>
 
 <h3> <i> Tecnologias que utilizo : ) </i> </h3>
 
