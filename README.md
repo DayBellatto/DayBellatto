@@ -24,6 +24,6 @@
 <h4> <i> <b>Quer me conhecer melhor? Faça contato </b></i></h5>
 
 - Email: motasantos.daiana@yahoo.com.br<br/>
-- whats: (11)96540-2815 <br/>
+
 
 ![Snake animation](https://github.com/DayBellatto/DayBellatto/blob/output/github-contribution-grid-snake.svg)
