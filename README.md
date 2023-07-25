@@ -9,6 +9,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayBellatto&langs_count=16&theme=great-gatsby"/>
 
 <h3> <i> Tecnologias que utilizo : ) </i> </h3>
+<h3> skill </i> </h3>
 
 <div style ="display: inline_block"><br/>
 
@@ -18,6 +19,9 @@
 
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
+<img align="center" alt="JavaScript" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+
 </div>
 
 <h5> <i> <b> Apaixonada pelo mundo Tech </b></i></h5>
@@ -26,4 +30,9 @@
 - Email: motasantos.daiana@yahoo.com.br<br/>
 
 
-![Snake animation](https://github.com/DayBellatto/DayBellatto/blob/output/github-contribution-grid-snake.svg)
+ <p align="center"> 
+
+  ![Snake animation](https://github.com/DayBellatto/DayBellatto/blob/output/github-contribution-grid-snake.svg)
+ </p>
+
+ 
