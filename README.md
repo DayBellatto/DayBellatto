@@ -32,10 +32,4 @@
 
 - Email: motasantos.daiana@yahoo.com.br<br/>
 
-
- <p align="center"> 
-
-  ![Snake animation](https://github.com/DayBellatto/DayBellatto/blob/output/github-contribution-grid-snake.svg)
- </p>
-
  
